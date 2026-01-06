@@ -1,0 +1,1 @@
+在DSP學的FIR filter簡單實現，其實就是一個shift register而已
